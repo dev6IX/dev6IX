@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=💻+Programador+JavaScript;📜+Experiência+com+Lua+para+RedM;🚀+A+criar+projetos+únicos+no+GitHub;🤠+Fundador+do+servidor+Old+Texas+RP" alt="Typing SVG" />
 </p>
 
----
+----
 
 ## 🚀 Sobre mim
 - 🔥 Programador apaixonado por **JavaScript**  
