@@ -11,7 +11,6 @@
 ## 🚀 Sobre mim
 - 🔥 Programador apaixonado por **JavaScript**  
 - 🎮 Alguma experiência com **Lua**, especialmente para servidores **Fivem/RedM**  
-- 🌵 Fundador do servidor **[Old Texas RP](https://discord.gg/oldtexas)**  
 - 💡 Sempre a aprender e a desenvolver projetos inovadores  
 
 ---
@@ -33,7 +32,6 @@
 
 ## 🌐 Onde me podes encontrar
 <p align="center">
-  <a href="https://discord.gg/oldtexas"><img src="https://img.shields.io/badge/Discord-OldTexasRP-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://github.com/dev6IX"><img src="https://img.shields.io/badge/GitHub-dev6IX-black?style=for-the-badge&logo=github" /></a>
 </p>
 
