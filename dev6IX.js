@@ -7,12 +7,12 @@
 
 const profile = {
   handle: "dev6IX",
-  role: "Software Engineer",
+  role: "Developer",
   location: "Portugal",
-  stack: ["JavaScript", "TypeScript", "Node.js", "Express"],
+  stack: ["JavaScript", "TypeScript", "Node.js"],
   frontend: ["HTML", "CSS", "Tailwind CSS"],
   tools: ["Git", "GitHub", "VS Code", "npm"],
-  principles: ["Clean Code", "Performance", "Scalability"],
+  discord: "six_05",
   status: "Building the next thing →",
 };
 
@@ -20,7 +20,7 @@ const banner = `
 ╔══════════════════════════════════════╗
 ║                                      ║
 ║              d e v 6 I X             ║
-║         Software Engineer            ║
+║              Developer               ║
 ║                                      ║
 ╚══════════════════════════════════════╝
 `;
