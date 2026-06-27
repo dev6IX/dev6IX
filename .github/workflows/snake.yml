@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/snake.yml
 
 jobs:
   generate:
@@ -14,21 +18,15 @@ jobs:
       - uses: actions/checkout@v4
 
       - uses: Platane/snk@v3
-        id: snake
         with:
           github_user_name: dev6IX
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: actions/upload-artifact@v4
+      - uses: peaceiris/actions-gh-pages@v4
         with:
-          name: snake-output
-          path: dist
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: output
+          enable_jekyll: false
