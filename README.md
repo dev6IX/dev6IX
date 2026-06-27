@@ -92,7 +92,7 @@ node dev6IX.js
 <h3 align="center">◼ CONTRIBUTION SNAKE ◼</h3>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/dev6IX/dev6IX/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  <img width="100%" src="https://raw.githubusercontent.com/dev6IX/dev6IX/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </p>
 
 <br>
@@ -112,8 +112,11 @@ node dev6IX.js
 <h3 align="center">◼ CONNECT ◼</h3>
 
 <p align="center">
-  <b>GitHub</b> → <a href="https://github.com/dev6IX">github.com/dev6IX</a><br>
-  <b>Discord</b> → <code>six_05</code>
+  <a href="https://github.com/dev6IX">
+    <img src="https://img.shields.io/badge/GITHUB-dev6IX-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/DISCORD-six__05-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </p>
 
 <br>
