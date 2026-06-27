@@ -10,19 +10,21 @@ const profile = {
   role: "Developer",
   location: "Portugal",
   stack: ["JavaScript", "TypeScript", "Node.js"],
-  frontend: ["HTML", "CSS", "Tailwind CSS"],
+  web: ["HTML", "CSS"],
   tools: ["Git", "GitHub", "VS Code", "npm"],
   discord: "six_05",
   status: "Building the next thing →",
 };
 
 const banner = `
-╔══════════════════════════════════════╗
-║                                      ║
-║              d e v 6 I X             ║
-║              Developer               ║
-║                                      ║
-╚══════════════════════════════════════╝
+ ██████╗ ███████╗██╗   ██╗ ██████╗ ██╗██╗  ██╗
+ ██╔══██╗██╔════╝██║   ██║██╔═══██╗██║╚██╗██╔╝
+ ██║  ██║█████╗  ██║   ██║██║   ██║██║ ╚███╔╝
+ ██║  ██║██╔══╝  ╚██╗ ██╔╝██║   ██║██║ ██╔██╗
+ ██████╔╝███████╗ ╚████╔╝ ╚██████╔╝██║██╔╝ ██╗
+ ╚═════╝ ╚══════╝  ╚═══╝   ╚═════╝ ╚═╝╚═╝  ╚═╝
+
+              Developer · Portugal
 `;
 
 console.log(banner);

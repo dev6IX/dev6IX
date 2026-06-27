@@ -1,15 +1,18 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:ffffff&height=320&section=header&text=dev6IX&fontSize=95&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer+%C2%B7+JavaScript+%C2%B7+Node.js&descSize=18&descAlignY=53&descAlign=62&stroke=ffffff" width="100%" alt="Header"/>
+<!-- HERO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:111111,100:ffffff&height=340&section=header&text=dev6IX&fontSize=100&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Developer+%C2%B7+JavaScript+%C2%B7+Node.js&descSize=19&descAlignY=52&descAlign=62&stroke=ffffff" width="100%" alt="Header"/>
 
 <br>
 
-<!-- TYPING · PRINCIPAL -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2800&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=80&lines=Creating+with+JavaScript+%26+TypeScript;Building+powerful+projects+with+Node.js;Turning+ideas+into+real+code" alt="Typing"/>
+<!-- HOOK -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3200&pause=700&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=940&height=70&lines=You're+inside+dev6IX's+profile+%E2%80%94+keep+scrolling;Code+crafted+with+intent+%C2%B7+Projects+built+to+last;JavaScript+is+where+everything+starts" alt="Hook"/>
 
-<!-- TYPING · TERMINAL -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3800&pause=900&color=888888&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=48&lines=%24+node+dev6IX.js+%E2%80%94+profile+loaded;JavaScript+%C2%B7+TypeScript+%C2%B7+Node.js;Always+learning+%C2%B7+Always+building" alt="Terminal"/>
+<!-- FLOW -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=75&lines=Creating+with+JavaScript+%26+TypeScript;Building+with+Node.js+power;Turning+ideas+into+working+code" alt="Flow"/>
+
+<!-- TERMINAL -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=4000&pause=1100&color=777777&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=44&lines=%24+node+dev6IX.js+%E2%80%94+profile+online;JS+%C2%B7+TS+%C2%B7+Node+%C2%B7+HTML+%C2%B7+CSS;discord+%3A+six_05" alt="Terminal"/>
 
 <br>
 
@@ -17,7 +20,7 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/dev6IX?style=for-the-badge&label=FOLLOWERS&color=ffffff&labelColor=000000&logo=github&logoColor=black" alt="Followers"/>
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&labelColor=ffffff&color=000000" alt="Status"/>
+<img src="https://img.shields.io/badge/LIVE-000000?style=for-the-badge&labelColor=ffffff&color=000000" alt="Live"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Discord-six__05-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 
@@ -25,59 +28,65 @@
 
 <br>
 
-<!-- ASCII -->
 <div align="center">
 
 ```text
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║   ░█▀▄ ░█▀█ ░█▀▄ ░█░█          d e v 6 I X               ║
-║   ░█░█ ░█░█ ░█▀▄ ░▄▀▄          Developer                  ║
-║   ░▀▀  ░▀░▀ ░▀░▀ ░▀░▀          Portugal · Open to collab  ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
+        ██████╗ ███████╗██╗   ██╗ ██████╗ ██╗██╗  ██╗
+        ██╔══██╗██╔════╝██║   ██║██╔═══██╗██║╚██╗██╔╝
+        ██║  ██║█████╗  ██║   ██║██║   ██║██║ ╚███╔╝
+        ██║  ██║██╔══╝  ╚██╗ ██╔╝██║   ██║██║ ██╔██╗
+        ██████╔╝███████╗ ╚████╔╝ ╚██████╔╝██║██╔╝ ██╗
+        ╚═════╝ ╚══════╝  ╚═══╝   ╚═════╝ ╚═╝╚═╝  ╚═╝
+
+              Developer  ·  Portugal  ·  Open to collab
 ```
 
 </div>
 
 <br>
 
-<!-- PROFILE · JS -->
 ```javascript
 const dev6IX = {
-  handle:    "dev6IX",
-  role:      "Developer",
-  location:  "Portugal",
-  focus:     ["Web Projects", "JavaScript", "Creative Code"],
-  stack:     ["JavaScript", "TypeScript", "Node.js"],
-  mindset:   ["Clean Code", "Creativity", "Growth"],
-  status:    () => "Building the next thing →",
+  handle:   "dev6IX",
+  role:     "Developer",
+  location: "Portugal",
+  stack:    ["JavaScript", "TypeScript", "Node.js"],
+  web:      ["HTML", "CSS"],
+  tools:    ["Git", "GitHub", "VS Code", "npm"],
+  discord:  "six_05",
+  live:     () => "Building the next thing →",
 };
 ```
 
+<details open>
+<summary align="center"><b>▸ INTERACTIVE · RUN MY PROFILE SCRIPT</b></summary>
+<br>
+
 ```javascript
-// Run in terminal → node dev6IX.js
-export const profile = {
-  languages:  ["JavaScript", "TypeScript"],
-  runtime:    "Node.js",
-  frontend:   ["HTML", "CSS", "Tailwind CSS"],
-  tools:      ["Git", "GitHub", "VS Code", "npm"],
-  discord:    "six_05",
-};
+// Clone the repo, then:
+// node dev6IX.js
+
+import { profile } from "./dev6IX.js";
+
+console.log(profile.handle);  // dev6IX
+console.log(profile.stack);   // JavaScript, TypeScript, Node.js
+console.log(profile.discord); // six_05
 ```
 
 <p align="center">
   <a href="dev6IX.js">
-    <img src="https://img.shields.io/badge/RUN_PROFILE_SCRIPT-000000?style=for-the-badge&logo=node.js&logoColor=white" alt="Run dev6IX.js"/>
+    <img src="https://img.shields.io/badge/RUN_WITH_NODE-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Run dev6IX.js"/>
   </a>
 </p>
+
+</details>
 
 ---
 
 <h3 align="center">◼ TECH STACK ◼</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,tailwind,git,github,vscode,npm&theme=dark&perline=10" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,git,github,vscode,npm,discord&theme=dark&perline=10" alt="Skills"/>
 </p>
 
 <br>
@@ -88,20 +97,20 @@ export const profile = {
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" alt="Node"/>
   <img src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=000000" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FFFFFF" alt="CSS"/>
-  <img src="https://img.shields.io/badge/Tailwind-FFFFFF?style=for-the-badge&logo=tailwindcss&logoColor=000000" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=000000" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=000000" alt="VS Code"/>
 </p>
 
 <br>
 
 <table align="center">
   <tr>
-    <td align="center"><b>CORE</b><br><sub>JavaScript · TypeScript · Node.js</sub></td>
+    <td align="center" width="280"><b>CORE</b><br><sub>JavaScript · TypeScript · Node.js</sub></td>
     <td align="center" width="40">│</td>
-    <td align="center"><b>WEB</b><br><sub>HTML · CSS · Tailwind CSS</sub></td>
+    <td align="center" width="280"><b>WEB</b><br><sub>HTML · CSS</sub></td>
     <td align="center" width="40">│</td>
-    <td align="center"><b>TOOLS</b><br><sub>Git · GitHub · VS Code · npm</sub></td>
+    <td align="center" width="280"><b>TOOLS</b><br><sub>Git · GitHub · VS Code · npm</sub></td>
   </tr>
 </table>
 
@@ -126,11 +135,11 @@ export const profile = {
 <h3 align="center">◼ ACTIVITY ◼</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev6IX&theme=react-dark&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=888888&area=true&height=320&custom_title=dev6IX+%C2%B7+Activity" alt="Activity"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev6IX&theme=react-dark&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=888888&area=true&height=320&custom_title=dev6IX+%C2%B7+Live+Activity" alt="Activity"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dev6IX/dev6IX/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/dev6IX/dev6IX/output/github-contribution-grid-snake-dark.svg" alt="Snake"/>
 </p>
 
 ---
@@ -150,16 +159,15 @@ export const profile = {
     <img src="https://img.shields.io/badge/GITHUB-dev6IX-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/DISCORD-six__05-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord six_05"/>
+  <img src="https://img.shields.io/badge/DISCORD-six__05-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </p>
 
 <br>
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:888888,100:000000&height=140&section=footer&fontSize=16&fontColor=ffffff&animation=fadeIn&text=Create+%C2%B7+Build+%C2%B7+Evolve." width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:666666,100:000000&height=150&section=footer&fontSize=17&fontColor=ffffff&animation=fadeIn&text=Create+%C2%B7+Build+%C2%B7+Evolve." width="100%" alt="Footer"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=4500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=620&lines=Thanks+for+visiting+my+profile.;See+you+around+%F0%9F%91%8B" alt="Footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=4800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=640&lines=Glad+you+stopped+by.;Now+go+build+something+epic." alt="Footer"/>
 </p>
 
 <p align="center"><sub>© dev6IX · Built with code & creativity</sub></p>
