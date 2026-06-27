@@ -9,7 +9,7 @@ const profile = {
   handle: "dev6IX",
   role: "Developer",
   location: "Portugal",
-  stack: ["JavaScript", "TypeScript", "Node.js"],
+  core: ["JavaScript", "TypeScript", "Node.js"],
   web: ["HTML", "CSS"],
   tools: ["Git", "GitHub", "VS Code", "npm"],
   discord: "six_05",
@@ -24,7 +24,7 @@ const banner = `
  ██████╔╝███████╗ ╚████╔╝ ╚██████╔╝██║██╔╝ ██╗
  ╚═════╝ ╚══════╝  ╚═══╝   ╚═════╝ ╚═╝╚═╝  ╚═╝
 
-              Developer · Portugal
+         Developer · Portugal · JS · TS · Node
 `;
 
 console.log(banner);
